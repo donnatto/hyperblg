@@ -2,4 +2,4 @@
 
 - git add: Agrega archivos al staging area
 - git rm: Los remueve del staging area
-- git checkout: trae cambios del master a carpeta
+- git checkout: trae cambios del commit especifico a carpeta
