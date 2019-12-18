@@ -16,3 +16,16 @@
 - git cherry-pick: \<commit\> Trae un commit especificado al head de un branch. (Mala practica)
 
 - git commit --amend: Cambios al commit anterior sin crear un commit nuevo.
+
+- git reflog: Referencia los logs.
+
+- git reset --soft \<commit\>: Devuelve al commit indicado sin eliminar los cambios.
+- git reset --hard \<commit\>: Devuelve al commit indicado eliminando todos los cambios.
+
+- git grep: buscar contenido dentro de nuestro repositorio
+
+- git shortlog: commits por persona.
+<!-- parametros -sn --all --no-merges -->
+
+- git blame: informacion de los cambios linea por linea.
+- git branch -a: lista todos nuestros branches sean locales o remotos.
